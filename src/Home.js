@@ -1,5 +1,5 @@
 import React from 'react'
-import EventSeatOutlinedIcon from '@mui/icons-material/EventSeatOutlined';
+// import EventSeatOutlinedIcon from '@mui/icons-material/EventSeatOutlined';
 
 const Home = () => {
   return (
