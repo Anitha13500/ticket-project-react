@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ticket-project-react/static/css/main.60da9615.css",
+    "main.js": "/ticket-project-react/static/js/main.75dd8651.js",
+    "static/js/787.7694964a.chunk.js": "/ticket-project-react/static/js/787.7694964a.chunk.js",
+    "index.html": "/ticket-project-react/index.html",
+    "main.60da9615.css.map": "/ticket-project-react/static/css/main.60da9615.css.map",
+    "main.75dd8651.js.map": "/ticket-project-react/static/js/main.75dd8651.js.map",
+    "787.7694964a.chunk.js.map": "/ticket-project-react/static/js/787.7694964a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60da9615.css",
+    "static/js/main.75dd8651.js"
+  ]
+}
